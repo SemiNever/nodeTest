@@ -1,0 +1,4 @@
+{
+   "root": "http://assets.example.com/foo/??bar.js,baz.js",
+   "port": "80"
+}
